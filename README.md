@@ -1,4 +1,17 @@
-# tgbot
+# xYamatoRobot
+
+
+<p align="center">
+  <img src="https://telegra.ph//file/ba067ec346534cd09aeb8.jpg">
+</p>
+
+## <p align="center">FOR YOUR INFO</p>
+
+I fork this repo only for my own groups and I still on try and error
+ 
+
+
+
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved into becoming a basis for modular
